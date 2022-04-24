@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
     <div className="Main">
-     <h1>Hello dear, <span style={cssStyle}> { greeting } </span></h1>
+     <h1>Hello Dev Shad, <span style={cssStyle}> { greeting } </span></h1>
     </div>
     <a href="https://bit.ly/3pswTI"> Download Source Code</a>
     </div>
